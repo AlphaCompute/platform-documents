@@ -1,7 +1,7 @@
 {
   "document": {
-    "version": 6,
-    "issued_at": "2026-10-18T17:36:58Z",
+    "version": 7,
+    "issued_at": "2026-10-26T09:49:44Z",
     "policy": {
       "tcb_statuses": [
         "UpToDate",
@@ -296,6 +296,11 @@
         "compose_hash": "sha256:7b1e9881d451711a571869448658e31b90ff0633ec2d91538f7da9b13b30db3c",
         "build": "kms dev-0054b9fc4716 (alpha-kms dev-root, fetched by sha256)",
         "source_url": "https://github.com/AlphaCompute/confidential-platform/commit/0054b9fc4716"
+      },
+      {
+        "compose_hash": "sha256:82918c38a776cd5d72a705ad3eb83e3e48aaeb45e5c1110ff4bd020a11a08828",
+        "build": "kms dev-925c24245071 (alpha-kms dev-root, fetched by sha256)",
+        "source_url": "https://github.com/AlphaCompute/confidential-platform/commit/925c242450717fb4f9fae0955c6b7812186b72c7"
       }
     ]
   },
@@ -303,7 +308,7 @@
     {
       "key": "oFMMIcTYWFl7017wPFlQuD04G_Z0z4vU9N94xdlNzXg",
       "algorithm": "ed25519",
-      "signature": "EFTKpeot-MrR-8Eq_pKlC6qmzRTk9ofyceC_KczIN50tP4fiR7JohUEFkPx90mEPVHRxizygwFQYH0aeSV8IBw"
+      "signature": "pNL3kihEAribhF3eF8NnGoYYNLtKLf2FcUYDwWPMI3MKa8INdvuK7n4wUoA_GB2pfnhKZYSYJt07NEwh90_wDA"
     }
   ]
 }
