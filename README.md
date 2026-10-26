@@ -55,3 +55,11 @@ The check fails when:
 
 `REKOR_URL` overrides the log (default `https://rekor.sigstore.dev`). The check trusts the log's API
 answers; it does not verify inclusion proofs.
+
+## The dev branch
+
+The branch `dev` holds the documents of the B300 dev stand, which the dev release key signs. No
+production component trusts that key, so nothing on `dev` can change production. A dev runtime
+fetches `platform.json` on `dev`, the highest version in its `documents/`, from
+`https://raw.githubusercontent.com/AlphaCompute/platform-documents/dev/platform.json`. Versions
+on `dev` are pushed without review and are not logged in Rekor.
