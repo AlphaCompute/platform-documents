@@ -1,7 +1,7 @@
 {
   "document": {
-    "version": 8,
-    "issued_at": "2026-10-27T10:32:41Z",
+    "version": 9,
+    "issued_at": "2026-10-28T09:35:20Z",
     "policy": {
       "tcb_statuses": [
         "UpToDate",
@@ -307,13 +307,21 @@
         "build": "kms dev-a443e5432602 (alpha-kms dev-root, fetched by sha256)",
         "source_url": "https://github.com/AlphaCompute/confidential-platform/commit/a443e543260225e6e958943d68035c42760f3531"
       }
-    ]
+    ],
+    "signer": {
+      "origins": [
+        "https://apps-test.alphacompute.cc"
+      ],
+      "rp_id": "apps-test.alphacompute.cc",
+      "api_origin": "https://apps-test.alphacompute.cc",
+      "bundle_sha256": "sha256:e5c6f8a9994ecf2e46f8553861bb5f4541e9955af3b7d7a2d6f8ab346fa03a4f"
+    }
   },
   "signatures": [
     {
       "key": "oFMMIcTYWFl7017wPFlQuD04G_Z0z4vU9N94xdlNzXg",
       "algorithm": "ed25519",
-      "signature": "9xdw0TsxwI0A8PFtECAybfRAwSdIqcmPVNgWcF5a8TZvR8-QHkEwuXBPg9wLbrSdplQs8UxDFrjOTUbp-5xACQ"
+      "signature": "Z1YeYAMWMP2LRDnD8ptozP2ZdvffbjiKuRlX78vp-wbFv2necGd5e-VfO1mVIPwrLTmtkheGr4NGG90tw1U4DQ"
     }
   ]
 }
