@@ -1,7 +1,7 @@
 {
   "document": {
-    "version": 10,
-    "issued_at": "2026-10-28T14:06:43Z",
+    "version": 11,
+    "issued_at": "2026-10-29T13:57:32Z",
     "policy": {
       "tcb_statuses": [
         "UpToDate",
@@ -314,14 +314,14 @@
       ],
       "rp_id": "apps.alphacompute.cc",
       "api_origin": "https://apps.alphacompute.cc",
-      "bundle_sha256": "sha256:d41181cd9bbaf9501090e6b7473a1c9fe0063cebbcbbd75da3fac9f7bf09e867"
+      "bundle_sha256": "sha256:f5f476b68ba5baea24fa2877ef0d946beac28b7a824b58e6617aa760e045a405"
     }
   },
   "signatures": [
     {
       "key": "oFMMIcTYWFl7017wPFlQuD04G_Z0z4vU9N94xdlNzXg",
       "algorithm": "ed25519",
-      "signature": "keOHAAyuy_gTHhcOMjVQCio-CAV1xYF3ydle9EJ1G6NOfcnArmSiVa4kdloOLRGMRXWHKJme3i-kBNRMfRwSBA"
+      "signature": "AShgIPsb2tgU075GlI7bwIzep1ZFNQpkWr5nRylGd2k1aIwIzUWfBY_o4hdR5Hkmrl9H0G3-InkO-xiCIw4KCg"
     }
   ]
 }
