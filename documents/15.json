@@ -1,0 +1,92 @@
+{
+  "document": {
+    "version": 15,
+    "issued_at": "2026-11-16T13:12:56Z",
+    "policy": {
+      "tcb_statuses": [
+        "UpToDate",
+        "SWHardeningNeeded"
+      ],
+      "tolerated_advisories": []
+    },
+    "reference_values": [],
+    "kata_reference_values": [
+      {
+        "runtime_class": "kata-qemu-tdx",
+        "mrtd": "sha384:c78e2b8b2f66207f3807d8d999f51e04f5eab8f7aa02614a86ddd81b61f4e79c5d7616664fcb190b8eaae2e26d60b12a",
+        "rtmr0": [
+          "sha384:86b3efbf4cfe8e99ee42143ce65b28f9c7ec551d914f663f3b372934b227270cc4a36a898e7643494aa51f5235c75430",
+          "sha384:67b6ae86625cd5010b36bad42db4ca7d6bdf8b44da0b421057949cfcb02fa33eed657c937700f572c7024d42ab5db48a",
+          "sha384:1285d20cf1a2850d99714cdd739c925f486f2b6fd8e6323075b2d9e5dc7e6f0181f56b8d595779a5bd8fdfaf4c8caa6b",
+          "sha384:8dddc3bea3226b2f7573841d0bb4a0e6be342659205f77224eb00f72d6c3bf822f6ba644b319af16c45c40c27ef8cf2c",
+          "sha384:73becac781a07521d93498481344c8cfb51f05ff21bd5126ba4cc340df20bb170da3980c60b79b3ac954a8e5f0083c79",
+          "sha384:366e2e5e99012cc8327f56011c0cc33d93963ff74ec6680c6eb458c9121a601711edd4eec14c7905e737ccd957ceb24c",
+          "sha384:0f2009fee44a25a8ea42f9eb1b7246fd3bb44a98ca2fa9a3e7be4ef8ccb78104383812a11c889fd9bee3659e320d0352",
+          "sha384:f1499adcaa8a97aaa575ddf9534a0a2df98cc68ae81eaed4e65a1499aa5876be2704288db433ceddd7332e51ef0df725",
+          "sha384:aca0b86cbb03cdbdba85cd39e8dbaa5dbfbe0f283ecd8badd82d235e91cc41b1a3102161539bf84391d0b2bad1939b77",
+          "sha384:074408ed582279e251ad9baf898c43fd632ac6031094b7d7ad5a83e11bc6fc6fa2c33e2b08d861a5fa9bee6c6929a088",
+          "sha384:72b2ecdbc866443a68b7e3b168154e2c22a1cdb2c300883e373b6f648016e26668446a65f42f981b1bd648439a88ebf4",
+          "sha384:036cf881b4b7f09503689336a051fc58017fd115796929c2b53fb76417ffab41529d9161a9e1ef4b1403008689fc6b9f",
+          "sha384:9528f61282c5782594263415458d63d19b0080cb3401792a5986c750bb0004da736f971edfff550ab1c3a7ff8f45a081",
+          "sha384:2baad761c2ea71c51cee419075a8cb9bf81ad65d94ad09cfab46711d5023188cc6ed092f75fcddde4e4e1d57bc3ee1d1",
+          "sha384:ccd2b5efefdfcaadaf618b5a1fea229f5ea1296d505ff32dfdf21d2fec1455114440719273f6286b216b36f0ab8966c2",
+          "sha384:40b304846277c9e8135004b03fc6a8bfa90ac310765c5f96624b2af70b78195d5dcd51ea7e8bfb3ddf8e307d111ddc4a",
+          "sha384:c4a91261536af748c23eb7f47b12ef9625b519be270f65f6506343d9d1bcd0c4f76e45cd4011fc8fd2bc2e87ecfb10c2",
+          "sha384:d5339d943178f5238a031b7fec9f24ace2e5761886f1bbb7d707343e78f8db60c67679c5883480402f17fcea91d75bde",
+          "sha384:fb15bc549c358223fc77308b166c14e70fdc0227e264487a2252ce47fbd3894acc2b70a7454ea99413950beb3b404c0d",
+          "sha384:9b47f33312a3e8f02a5a24d9b88d84ca7dbfc528356a4fceb17a733ce53ecededa70be626ab9f9e11432e2430ca91890",
+          "sha384:23b2612bb3cdb0b3fb37a992c2a2d7c2f3abb8de7e44bf0929d6f7f6bac4daff82915e87a5e8983a74855c313c95df29",
+          "sha384:91636e0dc876ff22b6600591ec62c1937aac40b710ce0946962cb8751aca5e7c00237afb0306e5782b28282c07e7d4ae",
+          "sha384:d043cbf96d49d8405c107d042a29ea46f773fc7c41d52b21ba9c82e9720f1414753e9ba2ed9cc4b4914b61c03695728b",
+          "sha384:0c8528744fec58dbc6428ee56f173cea1d038b29990e91d2ad28604c1bb388360382814bbf53d47442047cf301a2c637",
+          "sha384:42d9d4da3d5c7d205d5a2b9e9cea3dd5683c121b17b68c164852b7f06b9a5b60dd5b6c10c1b7e01f4d30b47c31803861",
+          "sha384:c4f14bdc0d3ec135aa8c1e400a3532c3d5669aa7049deac3e844eef049b0b5129ef7a13a0329920c7819c98ed740f7cc",
+          "sha384:7d9325199afb4c25a276a6c1c54db9c0e22ecd166e48b4db619980ea23e36ed08bb2277a0e3e440d9e4b53571e6df55f",
+          "sha384:8b50c81680e610862a07249ed83eb9929c155cfa9614ccf87f6cbafb34105f7cedba778b962eda3cb9c479eaf15238f7",
+          "sha384:573496ce76cf43e7e6babfb200382fa0288e61a80614d0871622bc6bac6756fba224eda848343cd3d4f19c53a3660997",
+          "sha384:638ccf5c015ff5d36332c01cf05bd7a9a40e93369d90fcc6508ec5f1717e5083cbcd77b26b335d9c478c1f35537bc43f",
+          "sha384:e52888781a1e577d73badb8129810b91b8f0329ab9f40e8400466ebe4c867b7a6ede6ef8d7a1b897360e4049cc2a96ca",
+          "sha384:7a317cb83ef034e46ad5ada4c127f7e6fb3ef2d8b15ce8307a953a288025b2870f5da1f444b745ae39d8e173a10eddf5",
+          "sha384:208a8525b50d975181c7d1d83239edb72e93bd8b740caed9b9c2fde2f7f08f1e62a700b5cc4019031702f2ec97f86b40",
+          "sha384:3b6102da2ef2b841deb4bee17fb13255ab7a6f428447b402865c714102ca1553d2b4c3f44e0460f5f905606e1a204f83",
+          "sha384:87d425e8f6a933514e973bae5ce476e4488669d6b9d503d9fe5d848237fe4c9ad958cce98e60e47bbb8811759a08b175",
+          "sha384:f02a3eec2ad9b310cb54f53b28557f13538ca5e26cc7ece8726e84f8569a34fd056b5ee040254d3d460ecefa1bacd6f3",
+          "sha384:8580f1370c3dfc8f697a590481bb89f48c43480dee21128e0e0a6762d9db67add7a5dc7de98f50f04f9795848c6fd094",
+          "sha384:bfb467ca9c6a4e0a733940f38e2508efe554f3584ca406d2e15bd6c175c39784b505c1dd4b03a782660383d9d456b96d",
+          "sha384:c965e6cd42db488861cd6c83f700212d4a57e6b7f1e5e27d20ce7efb37041441683fd37161f583284f6c0cad1578c859",
+          "sha384:4da20d0b7b7d7e5259a38dce250b8dd12b55a0ad3e7bc8e481980592dc5dad3adcab5b7ba3a261629c4d03a510ecf087"
+        ],
+        "rtmr1": "sha384:2bc5f4530adf0b51f5f89047ffbece35cbd1ccf80acdd458b809d3fe402b68305352c20b6089774d52457c4f552d6874",
+        "rtmr2": "sha384:3661c5ad2aa8c26d3389061ad0f752e71ecf9047c11c14a9c4c99f3eb0bb5a6f91628bf81334ae4794a3f0b5e28f57ab",
+        "gpu": false
+      }
+    ],
+    "kata_policy": {
+      "rules_sha256": "sha256:bd577f47615b580ec481dc1f5574c55d84f088231851d413897602a36cfc1e50",
+      "data_sha256": "sha256:f717030738d8ec48b62fd3630303b1d5309617ab274899d0e507e23359a28ca2"
+    },
+    "kms_ca_pem": "-----BEGIN CERTIFICATE-----\r\nMIIBbTCCARSgAwIBAgIQNhcvIhhDcwfx3PybemfNxjAKBggqhkjOPQQDAjAXMRUw\r\nEwYDVQQDDAxhbHBoYS1rbXMgY2EwHhcNMjYxMTE2MTMxMjE2WhcNNDYxMTExMTMx\r\nMjE2WjAXMRUwEwYDVQQDDAxhbHBoYS1rbXMgY2EwWTATBgcqhkjOPQIBBggqhkjO\r\nPQMBBwNCAATyOU279c0/IPmX4gAh9xJccOqTAQRcRhveVdNSlBggHYvSUl5ZjSSY\r\nmj5AUFTCpEJXP9q6LX7IVceHK0VbbTU4o0IwQDAOBgNVHQ8BAf8EBAMCAQYwHQYD\r\nVR0OBBYEFEOBrTqlxaozxQEqF7SSwK2taXD5MA8GA1UdEwEB/wQFMAMBAf8wCgYI\r\nKoZIzj0EAwIDRwAwRAIgdkSbpveDBoNHuEZBPS5kHv035awyKV9kCSOinAx6kesC\r\nIA0HxQSSDRQnAUO1igHHParzNEv5IF4MsUWvvlLLA55e\r\n-----END CERTIFICATE-----\r\n",
+    "kms_revisions": [
+      {
+        "compose_hash": "sha256:7cc019caa500d46e5f186c9a18e1b5ac5f27351a22c5900d0049fba7e4de7269",
+        "build": "kms dev-3181f4408fbf (alpha-kms dev-root, fetched by sha256)",
+        "source_url": "https://github.com/AlphaCompute/confidential-platform/commit/3181f4408fbf"
+      }
+    ],
+    "signer": {
+      "origins": [
+        "https://apps.alphacompute.cc"
+      ],
+      "rp_id": "apps.alphacompute.cc",
+      "api_origin": "https://apps.alphacompute.cc",
+      "bundle_sha256": "sha256:e6b31351b7daf4d4ce2447461949d26489506713339aaed29b9852a83cc228ce"
+    }
+  },
+  "signatures": [
+    {
+      "key": "oFMMIcTYWFl7017wPFlQuD04G_Z0z4vU9N94xdlNzXg",
+      "algorithm": "ed25519",
+      "signature": "EEZ_OeIP8NakRx_9X6moyHAENHD1tWKXZ96XWE2uLzvCbLceziaxYjMJnPN5mQllS128KhVnseAm9a8rr3vWCg"
+    }
+  ]
+}
